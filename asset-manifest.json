@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udaykiranhub/BlockExplorer.git/static/css/main.dbaba045.css",
+    "main.js": "/udaykiranhub/BlockExplorer.git/static/js/main.e36b6cfc.js",
+    "static/js/453.419a5d54.chunk.js": "/udaykiranhub/BlockExplorer.git/static/js/453.419a5d54.chunk.js",
+    "index.html": "/udaykiranhub/BlockExplorer.git/index.html",
+    "main.dbaba045.css.map": "/udaykiranhub/BlockExplorer.git/static/css/main.dbaba045.css.map",
+    "main.e36b6cfc.js.map": "/udaykiranhub/BlockExplorer.git/static/js/main.e36b6cfc.js.map",
+    "453.419a5d54.chunk.js.map": "/udaykiranhub/BlockExplorer.git/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbaba045.css",
+    "static/js/main.e36b6cfc.js"
+  ]
+}
